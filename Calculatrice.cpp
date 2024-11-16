@@ -18,7 +18,7 @@ do
   cout << "6. Racine carrée" <<endl;
   cout << "7. Calcul de pourcentage" <<endl;
   cout << "8. Fonction trigonométrique" <<endl;
-  cout << "5. Quitter" <<endl;
+  cout << "9. Quitter" <<endl;
   cout << "Choisissez une option : ";
   
   cin >> option;
